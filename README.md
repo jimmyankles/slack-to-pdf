@@ -1,10 +1,9 @@
 <p align="center">
   <img src="images/slack_to_pdf.png" />
 </p>
-# Slack To PDF Report
+# Slack To PDF Report - Jimmy's Add-On
 
-A Slack To PDF Report tool that allows you to easily view and share a report of your
-Slack team's interactions (instead of having to dive into hundreds of JSON files).
+My fork of thundergolfer's slack to pdf report. I'm going to work on making it look a lot nicer.
 
 ![Preview](images/mockup_slack_to_pdf_1.png)
 
@@ -52,14 +51,3 @@ Everything should be ready to go.
 
 Note: I will later work on making this process even easier for all OS Systems.
 
-## Acknowledgements
-
-* Credit to Pieter Levels for his original [blog post](https://levels.io/slack-export-to-html/) on a Slack-to-html solution.
-
-* Credit to [Hamza Faran](https://github.com/hfaran) for his work on a Slack-to-HTML solution in python.
-
-### License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Thundergolfer](http://www.jonathonbelotti.com) has waived all copyright and related or neighboring rights to this work.
